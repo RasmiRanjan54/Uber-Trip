@@ -1,0 +1,28 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning (for LSTM)
+tensorflow
+
+# Web App (Dashboard)
+streamlit
+
+# API (optional but recommended)
+fastapi
+uvicorn
+
+# Model Saving
+joblib
+
+# Jupyter Notebook (for development)
+notebook
+ipykernel
